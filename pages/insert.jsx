@@ -1,12 +1,11 @@
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
-
-import MainPage from "@/js/components/MainPage";
+import InsertPage from "@/js/components/InsertPage";
 
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-   <MainPage/>
+   <InsertPage/>
   )
 }
