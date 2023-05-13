@@ -18,7 +18,7 @@ export default function InsertPage() {
         });
     }
     const myFunc=(event)=>{
-        window.open("http://localhost:3000") ;
+        window.open("https://cloud-computing-two.vercel.app") ;
     }
 
     return (

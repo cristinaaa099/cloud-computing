@@ -34,10 +34,10 @@ export default function MainPage() {
         }
     }
     const myFunc=(event)=>{
-        window.open("http://localhost:3000/insert") ;
+        window.open("https://cloud-computing-two.vercel.app/insert") ;
     }
     const myFunc2=(event)=>{
-        window.open("http://localhost:3000/chat") ;
+        window.open("https://cloud-computing-two.vercel.app/chat") ;
     }
     return (
         <section className="bg-white dark:bg-gray-900">

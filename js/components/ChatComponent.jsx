@@ -72,7 +72,7 @@ function ChatComponent(props) {
         }
     }
     const myFunc=(event)=>{
-        window.open("http://localhost:3000") ;
+        window.open("https://cloud-computing-two.vercel.app") ;
     }
     return (
         <div className={"w-full max-w-[1500px] mx-auto my-10"}>
